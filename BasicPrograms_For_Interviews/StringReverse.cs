@@ -21,6 +21,7 @@ namespace BasicPrograms_For_Interviews
            Console.WriteLine(reversedString);
         }
 
+        //String Reverse using While Loop
         public void ReverseStringWhileLoop(string name)
         {
             char[] chars = name.ToCharArray();
